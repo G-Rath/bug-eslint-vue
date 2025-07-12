@@ -1,0 +1,7 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.lib.json",
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["ES2023"]
+  }
+}

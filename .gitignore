@@ -58,3 +58,6 @@ pids
 *.pid
 *.seed
 *.pid.lock
+
+app.js
+app.d.ts

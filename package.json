@@ -1,0 +1,19 @@
+{
+  "name": "bug-eslint-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "typescript": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@vue/tsconfig": "^0.7.0",
+    "eslint": "^9.31.0",
+    "eslint-plugin-vue": "^10.3.0",
+    "typescript": "^5.8.3"
+  }
+}
